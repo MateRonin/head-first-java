@@ -1,3 +1,4 @@
 rootProject.name = 'head-first-java'
 include 'chapter01'
+include 'chapter02'
 
