@@ -1,0 +1,6 @@
+exercises/SimpleLoop.java
+ exercises.SimpleLoop
+exercises/JigsawOne.java
+ exercises.JigsawOne
+exercises/BeerSong.java
+ exercises.BeerSong
