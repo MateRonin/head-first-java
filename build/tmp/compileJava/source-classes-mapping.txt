@@ -1,0 +1,4 @@
+exercises/echo/Echo.java
+ exercises.echo.Echo
+exercises/echo/EchoTester.java
+ exercises.echo.EchoTester
